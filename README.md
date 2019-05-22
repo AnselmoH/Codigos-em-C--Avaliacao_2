@@ -1,5 +1,6 @@
 # Codigos-em-C--Avaliacao_2
 Resolução das questões da segunda avaliação da turma DCA0800.
+
 #include <stdio.h>
 
 int main(){
