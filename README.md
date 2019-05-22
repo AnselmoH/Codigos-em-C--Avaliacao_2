@@ -1,4 +1,4 @@
-# Codigos-em-C--Avaliacao_2
+Turma DCA0800 - Avaliacao_2
 Resolução das questões da segunda avaliação da turma DCA0800.
 
 #include <stdio.h>
