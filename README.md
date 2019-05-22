@@ -2,7 +2,6 @@
 Resolução das questões da segunda avaliação da turma DCA0800.
 
 #include <stdio.h>
-
 int main(){
 
     int palavra;
